@@ -9,6 +9,15 @@ https://www.linkedin.com/in/tasfin-noisik-173211198/
 
 https://www.linkedin.com/in/oladayo-olatubosun-9065b4141/
 
+Data:
+
+[1]  IISInfo. COVID-19 Vaccination Demographics in the United States,National | Data | Centers for Disease Control and Prevention. 2022.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb (accessed 12 Aug 2022).
+
+[2]  Howard-Williams M. U.S. State and Territorial Public Mask Mandates From April 10, 2020 through August 15, 2021 by County by Day | Data | Centers for Disease Control and Prevention. 2021.https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i (accessed 12 Aug 2022).
+
+[3]  NCHS. Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022 | Data | Centers for Disease Control and Prevention. 2022.https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm (accessed 12 Aug 2022).
+
+
 Summary Report
 
 In this project, the end user Dr. Smith, who is an infectious disease doctor, wants us to detect fatality-prone illnesses. COVID-19 comorbidities can be lethal, but not always [1]. COVID-19 could kill persons with treatable conditions [1]. Comorbidities assist us identify illness risk in some people, but they don't cause death [2]. Coronaviruses can induce or aggravate deadly respiratory illnesses [1]. Death certificates may target COVID-19 urban and rural residents. The customer wants us to use a CDC dataset for health and safety marketing. COVID-19 deaths by age and area. This project advocates for health. COVID-19 could replace the flu vaccine [3]. Vaccination and infection-induced immunity can prevent epidemics [3]. CDC provided our three datasets: [4-6] (last accessed 6/20/2022). From those datasets Dr. Smith wants to see the role of demographics, underlying clinical conditions, and governmental policies during the COVID-19 pandemic.
