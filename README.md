@@ -22,3 +22,19 @@ Our third visualization is the Underlying Morbidity Risks Contributing to COVID-
 Our fifth and final visualization for the user is the Relationship of COVID-19 Deaths and Face-Mask Mandates by States. A comprehensive comparison of the COVID-19 mortality rate in each county with the government's face-mask mandate reveals that wearing a face-mask in public is not an effective measure for preventing the spread of diseases that are harmful to public health. The states of Texas and Florida have the highest COVID-19 mortality rates, despite the fact that their state governments have passed laws requiring residents to wear face masks. Despite the fact that the state government of Nebraska does not require the use of face masks, Nebraska is one of the states that has one of the lowest COVID-19 mortality rates.
 
 Overall, our group focused on mask mandates and vaccination rates to visibly connect the substantial changes to the national morbidity and mortality rate. This project's focus on datasets that helped Dr. Smith makes sense of the large datasets by splitting down the most to least affected ethnic groups. Also under evaluation is how dynamic and unknown public health advocacy was compared to the death toll. The virus seemed to grasp life, and the health care community couldn't agree on how to curb or avoid COVID-19's wide variety of health issues.
+
+References
+
+[1] 	Ejaz H, Alsrhani A, Zafar A, et al. COVID-19 and comorbidities: Deleterious impact on infected patients. J Infect Public Health 2020;13:1833–9. doi:10.1016/j.jiph.2020.07.014
+
+[2] 	Dehingia N, Raj A. Sex differences in COVID-19 case fatality: do we know enough? Lancet Glob Health 2021;9:e14–5. doi:10.1016/S2214-109X(20)30464-2
+
+[3] 	Domnich A, Orsi A, Trombetta C-S, et al. COVID-19 and Seasonal Influenza Vaccination: Cross-Protection, Co-Administration, Combination Vaccines, and Hesitancy. Pharmaceuticals 2022;15:322. doi:10.3390/ph15030322
+
+[4] 	IISInfo. COVID-19 Vaccination Demographics in the United States,National | Data | Centers for Disease Control and Prevention. 2022.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb (accessed 12 Aug 2022).
+
+[5] 	Howard-Williams M. U.S. State and Territorial Public Mask Mandates From April 10, 2020 through August 15, 2021 by County by Day | Data | Centers for Disease Control and Prevention. 2021.https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i (accessed 12 Aug 2022).
+
+[6] 	NCHS. Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2022 | Data | Centers for Disease Control and Prevention. 2022.https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm (accessed 12 Aug 2022).
+
+[7]  COVID-19 and the Heart | NHLBI, NIH. https://www.nhlbi.nih.gov/coronavirus/heart (accessed 12 Aug 2022).
